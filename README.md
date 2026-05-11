@@ -79,7 +79,7 @@ This analysis evaluates cancellation behavior across segmented patient age group
 
 ### Random Forest Feature Importance
 
-![Feature Importance](images/feature_importance_.png)
+![Feature Importance](images/feature_importance.png)
 
 Feature importance analysis identified the strongest predictive variables influencing appointment cancellation behavior.
 
